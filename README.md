@@ -10,7 +10,7 @@ You have done basic LTMEAT! Enjoy your freedom.
 If you have an extension AND a wifi blocker (if above didnt work alone):
 (Note: you still must use the method above than after use this along with the other one. This part of the tutorial will only work on chromebooks if the above tutorial didn't work you're out of luck sorry.)
 
-1. Complete all the steps in the "If you have only an extension" tutorial. You are done, but you will need to reconnect to the VPN every time you close your chromebook.
+1. Complete all the steps in the "If you have only an extension" tutorial.
 2. Download the VPN from this repository.
 3. Visit this link (copy and paste into new tab): chrome://settings/signOut
 4. Visit this [link](https://accounts.google.com/signin/v2/identifier?hl=en&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAlAmgQ&flowName=GlifWebSignIn&flowEntry=AddSession). Sign into your school or work account.
@@ -21,6 +21,7 @@ If you have an extension AND a wifi blocker (if above didnt work alone):
 9. Go to your Chromebook settings 
 10. Click “VPN”.
 11. Find and choose the “US CABBAGE” network. (Note: you may not be abl to connect immediatly as the vpn is still processing your account please wait 5 to 10 minutes and repeat this step if this is the case)
+12.  You are done, but you will need to reconnect to the VPN every time you close your chromebook.
 
 Final Notes:
 1. Do not close the killed tab. The tab will forever reload, ignore this.
