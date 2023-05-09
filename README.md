@@ -1,7 +1,6 @@
 If you have only an extension:
 
 1. Locate your extension id by clicking the extension icon in the top right of your browser image, find your extension, click the 3 dots, then click "Manage Extension". Copy everything after chrome://extensions?id=. That is your extension id.
-image
 2. Create 2 new bookmarks IN YOUR BOOKMARK BAR, one named kill with a URL of chrome://kill and one named hang with a URL of chrome://hang.
 3. Open a new tab and go to chrome-extension://yourextensionidhere/manifest.json but replace "yourextensionidhere" with the id from earlier.
 4. Okay, you're going to want to remember this entire step and do it quickly. Click the kill bookmark from earlier and quickly spam the hang bookmark and spam the reload button on your keyboard for about 3-ish seconds.
@@ -24,6 +23,6 @@ If you have an extension AND a wifi blocker (if above didnt work alone):
 11. Find and choose the “US CABBAGE” network. (Note: you may not be abl to connect immediatly as the vpn is still processing your account please wait 5 to 10 minutes and repeat this step if this is the case)
 
 Final Notes:
-Do not close the killed tab. The tab will forever reload, ignore this.
-You will need to redo the tutorial if your chromebook gets shut down. (E.g it dies or you sign out)
-You will need to reconnect to the VPN every time you close your chromebook. (I know this is annoying, sorry, but it is necessary.)
+1. Do not close the killed tab. The tab will forever reload, ignore this.
+2. You will need to redo the tutorial if your chromebook gets shut down. (E.g it dies or you sign out)
+3. You will need to reconnect to the VPN every time you close your chromebook. (I know this is annoying, sorry, but it is necessary.)
